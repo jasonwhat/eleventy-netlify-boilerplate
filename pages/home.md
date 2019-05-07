@@ -10,4 +10,4 @@ This is the place for resources for PAX's Reprogramming War campaign. The projec
 
 The first report focusing on seven states has launched.
 
-- [Social Media Resources](/social)
+- [Social Media Resources](/posts/reprogramming-war-states-social-media/)
