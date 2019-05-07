@@ -1,9 +1,9 @@
 ---
-layout: layouts/blog.njk
-title: Blog
+title: Posts
+date: 2017-01-01T00:00:00.000Z
+permalink: /posts/index.html
+navtitle: Posts
 tags:
   - nav
-navtitle: Blog
-date: 2017-01-01
-permalink: /blog/index.html
 ---
+Find resources here.
